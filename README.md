@@ -1,6 +1,4 @@
-## Hi!
-
-I'm Khaled.
+Hi, I'm Khaled!
 
 An SNSF Postdoctoral Fellow at the Center for Astrophysics at the University of Porto in Portugal 🇵🇹.
 
